@@ -1,1 +1,1 @@
-Sitemap: https://hevia.github.io/halotags/sitemap.xml
+Sitemap: https://halotags.dev/sitemap.xml
